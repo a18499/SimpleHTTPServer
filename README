@@ -13,3 +13,4 @@ python -m "SimpleHTTPServer" comes in handy sometimes
 I have that ready to share big files to my friend
 
 change project to gradle
+and update netty-all version to 4.1.11.Final
